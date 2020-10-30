@@ -1,0 +1,20 @@
+{
+  "name": "media-player",
+  "version": "0.0.0",
+  "description": "A media player made w/ a javascript course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorddesert/media-player.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lorddesert/media-player/issues"
+  },
+  "homepage": "https://github.com/lorddesert/media-player#readme"
+}
